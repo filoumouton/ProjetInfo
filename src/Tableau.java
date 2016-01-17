@@ -1,3 +1,5 @@
+//java c'est de la merde
+
 import java.awt.Font;
 import java.util.InputMismatchException;
 import java.util.Scanner;
